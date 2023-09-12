@@ -1,0 +1,51 @@
+**Privacy Policy for Effici Calendar App**
+
+Effective Date: September 12th, 2023
+
+**Introduction**
+
+Welcome to Effici! Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your personal information when you use our calendar app. By using Effici, you agree to the terms and practices described in this policy.
+
+**1. Information We Collect**
+
+Effici Calendar App is designed to respect your privacy. We do not collect any personal information or data from your device unless explicitly provided by you. The only user data we may collect is:
+
+- **Optional User Name**: You have the option to provide your name, which is stored locally on your device. This information is not transmitted over the internet or to any external servers.
+
+**2. Use of Your Information**
+
+Effici Calendar App uses the information you provide only for the purpose of enhancing your calendar experience. Specifically:
+
+- **User Name**: If you choose to provide your name, it is used solely for personalizing your calendar interface. Your name is stored locally on your device and is not shared with any third parties.
+
+**3. Data Storage and Security**
+
+Your privacy is a top priority, and we take measures to ensure the security of your data:
+
+- **Local Storage**: The user name, if provided, is stored locally on your device, and we do not transmit it over the internet.
+
+- **No Internet Access**: Effici Calendar App does not require an internet connection to function, and we do not collect or transmit any data over the internet.
+
+- **Data Protection**: We implement industry-standard security measures to protect your data from unauthorized access or disclosure.
+
+**4. Disclosure of Information**
+
+We do not disclose your personal information to third parties, as we do not collect or transmit personal data outside of your device.
+
+**5. Updates and Communication**
+
+Effici Calendar App may send you notifications or updates related to the app itself. These notifications are not used for marketing or promotional purposes.
+
+**6. Children's Privacy**
+
+Effici Calendar App is not intended for use by children under the age of 13. We do not knowingly collect any information from children under 13 years old.
+
+**7. Changes to this Privacy Policy**
+
+Effici Calendar App may update this Privacy Policy from time to time. We will notify you of any significant changes through the app or via email, if available.
+
+**8. Contact Us**
+
+If you have any questions, concerns, or requests regarding your privacy or this Privacy Policy, please contact us at efficihelp@gmail.com.
+
+Thank you for choosing Effici. We are committed to providing you with a private and efficient calendar experience.
